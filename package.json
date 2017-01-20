@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "bs-platform": "^1.4.1",
+    "transit-js": "^0.8.846"
+  },
+  "scripts": {
+    "build": "bsb",
+    "watch": "bsb -w"
+  }
+}

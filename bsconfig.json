@@ -1,0 +1,5 @@
+{
+    "name" : "transit-bs",
+    "sources" : { "dir" :  "src"},
+    "generate-merlin": true,
+}
