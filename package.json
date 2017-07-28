@@ -9,7 +9,7 @@
   "homepage": "https://github.com/BuckleTypes/bs-transit-js",
     "keywords": [ "reason", "cqrs", "bucklescript" ],
   "devDependencies": {
-    "bs-platform": "^1.7.1"
+    "bs-platform": "^1.8.2"
   },
   "dependencies": {
     "transit-js": "^0.8.846"
