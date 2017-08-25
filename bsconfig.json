@@ -1,5 +1,6 @@
 {
-    "name" : "bs-transit-js",
-    "sources" : { "dir" :  "src"},
-    "generate-merlin": true,
+  "name": "bs-transit-js",
+  "bsc-flags": ["-bs-super-errors"],
+  "sources": {"dir" :  "src"},
+  "generate-merlin": true,
 }
