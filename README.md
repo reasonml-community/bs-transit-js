@@ -1,4 +1,6 @@
-# Transit-js Bucklescript bindings #
+# Transit-js Bucklescript bindings
+
+> BuckleScript/Reason are now called [ReScript](https://rescript-lang.org). Please create a new `rescript-transit-js` binding instead.
 
 Make client-server communication great again.
 
